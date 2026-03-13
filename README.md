@@ -10,6 +10,8 @@ Powered by [KeyID.ai](https://keyid.ai) — free email infrastructure for AI age
 
 ```bash
 npm install @keyid/agent-kit
+# or
+yarn add @keyid/agent-kit
 ```
 
 ## Usage
