@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/keyid-ai-agent-kit-badge.png)](https://mseep.ai/app/keyid-ai-agent-kit)
+
 # @keyid/agent-kit
 
 **Give Claude, Cursor, or any MCP client a real email address. Free. No signup.**
